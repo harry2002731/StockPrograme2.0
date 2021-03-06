@@ -248,3 +248,4 @@ if __name__ == '__main__':
     window = Main()
     window.show()
     sys.exit(app.exec_())
+    print("test")
